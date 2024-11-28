@@ -1,4 +1,4 @@
 print("Hi")
 print("I am")
 print("JP")
-print("Nice to meet you")
+print("Nice to meet")
